@@ -1,0 +1,9 @@
+pencolor 0,0,255
+penwidth 4
+wait 3
+repeat 36 [
+  forward 5
+  turnright 10
+  wait 0.5
+]
+

@@ -1,0 +1,3 @@
+x = "Olá "
+nome = inputwindow "por favor insira o seu nome..."
+print x + nome + ", como está?"
